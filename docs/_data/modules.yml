@@ -1,7 +1,6 @@
 - day: M
   date: 01/12
   title: "Course Overview. Introductions. High Performance Computing. Basic Linux."
-  description: "Managing files and directories. Navigating paths."
   exercise: "0: Basic Linux + Treasure Hunt"
   markdown: "00-Basic_Linux"
   basename: 0112-Introduction
@@ -10,6 +9,7 @@
   date: 01/14
   exercise: "1: Introduction to Jupyter notebooks"
   notebook_todo: 01-Jupyter
+  basename: 0114-Jupyter
 
 - day: M
   date: 01/19

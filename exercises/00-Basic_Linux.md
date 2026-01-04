@@ -1,4 +1,4 @@
-# Basic Linux Commands for **SDSC Expanse** + Treasure Hunt
+# Exercise 0: Basic Linux + Treasure Hunt
 
 > **Audience:** Classroom beginners + HPC onboarding (SDSC Expanse)  
 > **Goal:** Build confidence in the terminal: create files/directories, navigate with `cd`, use **absolute** & **relative** paths, and edit text with **nano**.
@@ -64,20 +64,22 @@ Useful keys (`^` means **Ctrl**):
 
 # Part 0 — Create a safe playground
 
-1) Go to your home folder:
+1) Log in to the [SDSC Expanse User Portal](https://portal.expanse.sdsc.edu/) and select **expanse Shell access**. You will do the rest of this exercise in the shell.
+
+2) Go to your home folder:
 
 ```bash
 cd ~
 ```
 
-2) Create and enter the lab folder:
+3) Create and enter the lab folder:
 
 ```bash
 mkdir -p linux-beginner-lab
 cd linux-beginner-lab
 ```
 
-3) Confirm where you are:
+4) Confirm where you are:
 
 ```bash
 pwd
@@ -558,6 +560,21 @@ cat docs/answer2.txt
 
 ---
 
+## Grading
+
+To receive a satisfactory for this exercise, submit your answers for the following questions on Canvas.
+
+1) What does `pwd` show?
+2) What is the difference between `ls` and `ls -a`?
+3) What does `..` mean?
+4) Give one absolute path you used.
+5) Give one relative path you used.
+6) In nano, what do `Ctrl+O` and `Ctrl+X` do?
+7) What did `find` help you do?
+8) What is the output of `cat docs/answer*.txt`?
+
+---
+
 ## Expanse‑friendly habits
 
 - Keep notes and documentation in `docs/`
@@ -570,28 +587,14 @@ cat docs/answer2.txt
 
 ## Cleanup (optional)
 
-If your instructor says it’s okay to delete the lab:
+After Exercise 0 is submitted and graded, you may delete the lab:
 
 ```bash
 cd ~
 rm -ri linux-beginner-lab
 ```
 
----
-
-## Self‑Check
-
-1) What does `pwd` show?
-2) What is the difference between `ls` and `ls -a`?
-3) What does `..` mean?
-4) Give one absolute path you used.
-5) Give one relative path you used.
-6) In nano, what do `Ctrl+O` and `Ctrl+X` do?
-7) What did `find` help you do?
-
----
-
-## Instructor notes (optional)
+## Instructor notes
 
 - If learners get lost, reset with:
 
