@@ -1,15 +1,15 @@
 - day: M
   date: 01/12
   title: "Course Overview. Introductions. High Performance Computing. Basic Linux."
+  ppt: 0112-Introduction
   exercise: "0: Basic Linux + Treasure Hunt"
   markdown: "00-Basic_Linux"
-  basename: 0112-Introduction
 
 - day: W
   date: 01/14
+  ppt: 0114-Jupyter
   exercise: "1: Introduction to Jupyter notebooks"
   notebook_todo: 01-Jupyter
-  basename: 0114-Jupyter
 
 - day: M
   date: 01/19
@@ -18,16 +18,16 @@
 - day: W
   date: 01/21
   title: "Fundamentals of biological macromolecules."
+  ppt_todo: 0121-Biological_Macromolecules
   exercise: "2: Structural visualization with py3DMol"
   notebook_todo: 02-Structural_Visualization
-  basename_todo: 01-21-Biological_Macromolecules
   due: "Exercise 0 and 1"
 
 - day: F
   date: 01/23
   title: "Structure determination"
   description: "by X-ray crystallography, NMR, and CryoEM."
-  basename_todo: 01-23-Structure_Determination
+  ppt_todo: 01-23-Structure_Determination
 
 - day: M
   date: 01/26
@@ -35,13 +35,13 @@
   description: "Homology modeling. AlphaFold and RoseTTAFold"
   exercise: "3: Homology modeling"
   notebook_todo: 03-Homology_Modeling
-  basename_todo: 01-26-Structure_Prediction
+  ppt_todo: 01-26-Structure_Prediction
 
 - day: W
   date: 01/28
   title: "Selecting a target"
   description: "for structure-based molecular design. Scientific and market considerations"
-  basename_todo: 01-28-Target_Selection
+  ppt_todo: 01-28-Target_Selection
   due: "Exercise 2"
 
 - day: M
@@ -54,14 +54,14 @@
   title: "Scientific literature and databases."
   description: "Academic literature databases. Reference management with Zotero.
     PubChem, PDB, UniProt, and GPCRdb."
-  basename_todo: 02-04-Scientific_Resources
+  ppt_todo: 02-04-Scientific_Resources
   due: "Exercise 3. Quiz: Biomolecular structure"
 
 - day: M
   date: 02/09
   title: "Electrostatics and solvation"
   description: "of biological macromolecules."
-  basename_todo: 02-09-Electrostatics
+  ppt_todo: 02-09-Electrostatics
 
 - day: W
   date: 02/11
@@ -72,7 +72,7 @@
   date: 02/16
   title: "Molecular docking."
   description: "Scoring functions. Common optimization algorithms."
-  basename_todo: 02-16-Molecular_Docking
+  ppt_todo: 02-16-Molecular_Docking
 
 - day: W
   date: 02/18
@@ -102,7 +102,7 @@
   date: 03/04
   title: "Molecular mechanics force fields."
   description: "Bonded and nonbonded energy terms. Parameterization."
-  basename_todo: 03-04-Molecular_Mechanics
+  ppt_todo: 03-04-Molecular_Mechanics
 
 - day: M
   date: 03/09
@@ -114,7 +114,7 @@
   date: 03/11
   title: "Monte Carlo."
   description: "Monte Carlo Integration. Markov chain Monte Carlo"
-  basename_todo: 03-11-Monte_Carlo
+  ppt_todo: 03-11-Monte_Carlo
   due: "Quiz: Potential energy"
 
 - day: M
@@ -133,7 +133,7 @@
   exercise: "8: Performing a molecular simulation with OpenMM"
   notebook_todo: 08-OpenMM
   due: "Exercise 7"
-  basename_todo: 03-23-Molecular_Simulation
+  ppt_todo: 03-23-Molecular_Simulation
 
 - day: W
   date: 03/25
@@ -155,7 +155,7 @@
     Multi-state Analysis."
   exercise: "10: Umbrella sampling"
   notebook_todo: 10-Umbrella
-  basename_todo: 03-30-Enhanced_Sampling
+  ppt_todo: 03-30-Enhanced_Sampling
   due: "Exercise 9"
 
 - day: M
@@ -163,7 +163,7 @@
   title: "Replica Exchange."
   exercise: "11: Performing replica exchange with Fulton Market"
   notebook_todo: 11-Fulton_Market
-  basename_todo: 04-06-Replica_Exchange
+  ppt_todo: 04-06-Replica_Exchange
 
 - day: W
   date: 04/08
@@ -182,21 +182,21 @@
   date: 04/15
   title: "Quantitative structure-property relationships."
   description: "Structural features. Common properties. Machine learning methods."
-  basename_todo: 04-15-QSPR
+  ppt_todo: 04-15-QSPR
   due: "Quiz: Molecular simulations"
 
 - day: M
   date: 04/20
   title: "Solubility."
   exercise: "13: Machine learning prediction of solubility"
-  basename_todo: 04-20-Solubility
+  ppt_todo: 04-20-Solubility
   notebook_todo: 13-Solubility
   due: "Exercise 12"
 
 - day: W
   date: 04/22
   title: "Quantum mechanics/molecular mechanics (QM/MM)"
-  basename_todo: 04-22-QMMM
+  ppt_todo: 04-22-QMMM
 
 - day: M
   date: 04/27
