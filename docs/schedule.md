@@ -18,6 +18,7 @@ There are optional deadlines to submit drafts. If you submit a draft by the opti
 {%- if module.teacher %} ({{ module.teacher }}){% endif -%}
 {%- if module.basename %} [[key](https://github.com/daveminh/Chem456-2026S/raw/main/slides/{{ module.basename }}.key)/[pdf](https://github.com/daveminh/Chem456-2026S/raw/main/slides/{{ module.basename }}.pdf)]. {% endif %}
 {%- if module.exercise %} Exercise {{ module.exercise }}.{% endif -%}
+{%- if module.markdown %} [[Markdown](https://github.com/daveminh/Chem456-2026S/blob/main/exercises/{{ module.markdown }}.md)]. {% endif -%}
 {%- if module.notebook %} [[Notebook](https://github.com/daveminh/Chem456-2026S/blob/main/exercises/{{ module.notebook }}.ipynb)]. {% endif -%}
 {%- if module.due %} <u>Due:</u> {{ module.due }}. {% endif %}
 {%- if module.quiz %} <u>Quiz:</u> {{ module.quiz }}. {% endif %} |

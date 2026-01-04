@@ -1,9 +1,10 @@
 - day: M
   date: 01/12
-  title: "Introduction and syllabus. Basic Linux and remote computing."
-  description: "Logging in. Terminal. Linux commands. Paths. Environments. GitHub
-    and Git."
-  basename_todo: 01-12-Introduction
+  title: "Course Overview. Introductions. High Performance Computing. Basic Linux."
+  description: "Managing files and directories. Navigating paths."
+  exercise: "0: Basic Linux + Treasure Hunt"
+  markdown: "00-Basic_Linux"
+  basename: 0112-Introduction
 
 - day: W
   date: 01/14
@@ -20,7 +21,7 @@
   exercise: "2: Structural visualization with py3DMol"
   notebook_todo: 02-Structural_Visualization
   basename_todo: 01-21-Biological_Macromolecules
-  due: "Exercise 1"
+  due: "Exercise 0 and 1"
 
 - day: F
   date: 01/23
