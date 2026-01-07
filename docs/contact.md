@@ -12,7 +12,7 @@ Dr. David Minh
 **Office phone**: (312) 567-3411 \
 [Research group web page](https://ccbatiit.github.io/)
 
-**Class hours**: Monday and Wednesday, 8:35-9:50, Stuart Building 112F
+**Class hours**: Monday and Wednesday, 8:35-9:50, Stuart Building 112F. Per campus policies, there will be one session on Friday to make up for the MLK holiday.
 
 **Drop-in office hours**: Monday 12:45pm-2pm, Wednesday 10am-11:15am, and Wednesday 3:15pm-3:45pm, [Pritzker Science Center 390](https://ccbatiit.github.io/visit/)
 

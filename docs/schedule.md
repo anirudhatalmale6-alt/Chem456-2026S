@@ -8,7 +8,7 @@ There will be 30 class sessions over 16 weeks. A tentative schedule is below.
 
 Lecture slides and exercise notebooks should be available below after the class period. If they are not, please let me know.
 
-There are optional deadlines to submit drafts. If you submit a draft by the optional deadline, I plan to provide feedback within two days about whether the draft is satisfactory and the steps that you could take to make it satisfactory.
+There are optional deadlines to submit drafts on Canvas. If you submit a draft by the optional deadline, I plan to provide feedback within two days about whether the draft is satisfactory and the steps that you could take to make it satisfactory.
 
 | ---- | | |
 {% for module in site.data.modules -%} |

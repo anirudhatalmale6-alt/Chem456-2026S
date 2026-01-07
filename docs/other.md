@@ -26,7 +26,7 @@ Not allowed (unless explicitly permitted):
 * Submitting AI-generated text/code you do not understand and cannot defend
 * Fabricating data, results, or citations (all references must be verified)
 
-Disclosure: For any non-trivial GenAI use on graded work, include a brief note: tool(s) used + what you used it for + how you verified/edited the output.
+Disclosure: For any non-trivial GenAI use on graded work, include a brief note: tool(s) used + what you used it for + how you verified/edited the output and the end of the document. For example, “Used ChatGPT to brainstorm an outline and debug a Python error; verified all scientific claims by checking primary literature and re-running code.”
 
 ## Quizzes
 

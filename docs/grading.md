@@ -4,7 +4,7 @@ title: Grading
 permalink: /grading/
 ---
 
-Instead of a traditional point-based system, we will use specifications grading. Each assignment will be graded as satisfactory or unsatisfactory based on whether it is submitted on time and whether it meets specifications described in the rubrics. You will earn a higher grade in the class by completing more assignments at a higher level. You must meet all of the requirements of a grade level to earn the grade.
+Instead of a traditional point-based system, we will use specifications grading. Each assignment will be graded as satisfactory or unsatisfactory based on whether it is submitted on time and whether it meets specifications described in the rubrics. You will earn a higher grade in the class by completing more assignments at a higher level. You must meet all the requirements of a grade level to earn the grade.
 
 | Assignment | D | C | B | A |
 | ---------- | - | - | - | - |
@@ -23,21 +23,23 @@ In addition to meeting specifications described in the rubrics, all satisfactory
 
 For the biological target presentation and report, you will select and do some research on a G protein-coupled receptor (or by permission, another biological macromolecule) to evaluate its suitability for computer-aided drug design.
 
-A significant part of the class will be based on a final project completed in a group of up to 4 students. During finals week, your group will give a 35 minute presentation about your project. You will also write a final report in the format of a scientific journal article. It should be at least 5 pages.
+A significant part of the class will be based on a final project completed in a group of up to 4 students (the project may be solo). During finals week, your group will give a 35 minute presentation about your project. You will also write a final report in the format of a scientific journal article. It should be at least 5 pages.
+
+Each team member should own at least one major deliverable component. If a conflict arises, the team should first try to resolve it among themselves. If not, meet with me to discuss possible solutions, including moving to another team.
 
 You will also write an individual contribution report describing how you contributed to the team project. It should be at least 1 page. This report will be reviewed by your teammates for credibility. The report and peer review will be used to classify your level of individual contribution.
 
 Quizzes will be during the first 30 minutes of class. A satisfactory grade is 70%.
 
-Unless otherwise stated, exercises will be due a week after the class session in which they are introduced. Exercises should be completely correct. A satisfactory grade will be based on correct answers for a subset of questions, which may or may not be announced beforehand.
+Unless otherwise stated, exercises will be due at 8:30am one week after the class session in which they are introduced. Exercises should be completely correct. A satisfactory grade will be based on correct answers for a subset of questions, which may or may not be announced beforehand.
 
-Participation points will be awarded for asking questions during presentations (1 point each and up to 2 per day) as well as summarizing your contributions. I will also award participation points during classes for answering my questions or helping a classmate with their questions.
+Participation points will be awarded for making contributions and documenting them on Canvas within one week. Contributions include: introducing yourself (in the first week); asking questions during presentations (1 point each and up to 2 per day); answering my questions; identifying an error in my course materials; or helping a classmate with their questions. While you are encouraged to ask me questions during lectures, you will **not** receive points for doing so.
 
 ## Tokens
 
 At the beginning of class, you will have 8 tokens.
 
-Tokens may be used to revise an unsatisfactory assignment, submit an assignment late, or for participation points. Costs depend on the assignment. The exercises cost 1 token to revise and 1 token to submit up to one week late. The biological target presentation, report, and quizzes cost 2 tokens to revise. The report costs 1 token to submit up to one week late. Revising the presentation means giving me at least a partial presentation. A token is worth 2 participation points.
+Tokens may be used to revise an unsatisfactory assignment, submit an assignment late, or for participation points. Costs depend on the assignment. The exercises cost 1 token to revise and 1 token to submit up to one week late. Exercises will not be accepted more than one week late. The biological target presentation, report, and quizzes cost 2 tokens to revise. The report costs 1 token to submit up to one week late. Reports will not be accepted more than one week late. Revising the presentation means giving me at least a partial presentation. A token is worth 2 participation points. If you run out of tokens, further revisions/late submissions are not available, but you may still earn participation normally.
 
 Revising a quiz means writing satisfactory new questions and answers comparable to the questions that you missed and letting me use them in the future. Each question should be:
 * similar to a question that you answer correctly.

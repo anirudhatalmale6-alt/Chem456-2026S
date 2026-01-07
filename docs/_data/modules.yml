@@ -7,7 +7,7 @@
 
 - day: W
   date: 01/14
-  title: "Juypter Notebooks. Software Environments."
+  title: "Jupyter Notebooks. Software Environments."
   slides: 0114-Jupyter
   exercise: "1: Introduction to Jupyter Notebooks"
   notebook: 01-Jupyter
