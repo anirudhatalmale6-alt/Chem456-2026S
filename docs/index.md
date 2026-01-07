@@ -16,7 +16,7 @@ The goals of this course are that you will be able to:
 * Perform calculations on a computing cluster.
 * Recall the main types of biological macromolecules, identify their monomers, and describe their levels of structure.
 * Describe the types of forces that maintain the structure of biological macromolecules and stabilize their interactions with small organic molecules.
-* Visualize molecular structures with different styles. Compare the advantages and disadvantages of several styles.
+* Visualize molecular structures with different representations. Compare the advantages and disadvantages of several representations.
 * Align coordinates of protein structures with different amino acid sequences.
 * Summarize the principles behind the main methods used to determine the structures of biological macromolecules. Compare their relative benefits and drawbacks.
 * Use generative AI methods to predict the structure of protein complexes based on the sequence of amino acids. Express confidence in the quality of a structure prediction.

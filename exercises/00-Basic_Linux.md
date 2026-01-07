@@ -3,6 +3,9 @@
 > **Audience:** Classroom beginners + HPC onboarding (SDSC Expanse)  
 > **Goal:** Build confidence in the terminal: create files/directories, navigate with `cd`, use **absolute** & **relative** paths, and edit text with **nano**.
 
+This exercise is intended to help you achieve the following learning objective:
+* Navigate directories, organize files, and execute programs on a command-line terminal.
+
 ---
 
 ## HPC context
