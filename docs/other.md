@@ -4,11 +4,33 @@ title: Other
 permalink: /other/
 ---
 
-# Group Work and Academic Honesty
+# Academic Honesty
+
+Students are expected to adhere to the [IIT Code of Academic Honesty](https://www.iit.edu/student-affairs/student-handbook/fine-print/code-academic-honesty). Also see the student [Code of Conduct](https://www.iit.edu/student-affairs/student-handbook/fine-print/code-conduct).
+
+## Group Work
 
 You are allowed and encouraged to help each other on all the assignments. Indeed, you must work in a group for the final project, presentation, and report. However, you should prepare your own unique biological target presentation and biological target report.
 
-Quizzes must be completed individually. Seating may be assigned during quizzes. Cheating on a quiz will lead to failing the quiz. Students are expected to adhere to the [IIT Code of Academic Honesty](https://www.iit.edu/student-affairs/student-handbook/fine-print/code-academic-honesty). Also see the student [Code of Conduct](https://www.iit.edu/student-affairs/student-handbook/fine-print/code-conduct).
+## Generative AI (GenAI) Policy
+
+GenAI tools (e.g., chat assistants, code assistants, structure-prediction models) may be used in this course only in ways that support learning and do not replace the work an assignment is designed to assess. Unless an assignment explicitly allows more, treat GenAI like outside assistance: limited use is permitted, and non-trivial use must be acknowledged. You are responsible for everything you submit (accuracy, reasoning, code correctness, and citations), including any AI-assisted content; AI outputs can be incorrect or misleading, so you must verify claims and references with reliable sources. 
+
+Allowed (unless an assignment says otherwise):
+* Brainstorming and planning (ideas, outlines, troubleshooting steps)
+* Debugging code or explaining error messages
+* Proofreading/clarity edits to text you wrote
+
+Not allowed (unless explicitly permitted):
+* Using GenAI to substantially complete an assignment (e.g., generating full solutions or report sections) without further editing and verification. You should retain AI-generated text for comparison to your final version.
+* Submitting AI-generated text/code you do not understand and cannot defend
+* Fabricating data, results, or citations (all references must be verified)
+
+Disclosure: For any non-trivial GenAI use on graded work, include a brief note: tool(s) used + what you used it for + how you verified/edited the output.
+
+## Quizzes
+
+Quizzes must be completed individually. Seating may be assigned during quizzes. Cheating on a quiz will lead to failing the quiz.
 
 # Disabilities
 
@@ -26,5 +48,5 @@ For a comprehensive list of resources, visit the Office of Title IX Compliance w
 
 # Other Fine Print
 
-[The Family Educational Rights and Privacy Act (FERPA)](https://www.iit.edu/registrar/students-and-alumni/ferpa)
+[The Family Educational Rights and Privacy Act (FERPA)](https://www.iit.edu/registrar/students-and-alumni/ferpa) \
 [Policies Procedures and Regulations (from Student Handbook)](https://www.iit.edu/student-affairs/student-handbook/fine-print/policies-regulations-and-procedures)
