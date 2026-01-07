@@ -18,3 +18,13 @@ Materials from this class were adapted from previous versions of the class and o
 In the Spring 2022 workshop, exercises were adapted from
 * [IIBM3202 Molecular Modeling and Simulation](https://github.com/pb3lab/ibm3202/) from the Institute for Biological and Engineering at Pontificia Universidad Catolica de Chile, and
 * [TeachOpenCADD](https://github.com/volkamerlab/teachopencadd)
+
+# Communications Lab
+
+The Communications Lab offers free 50-minute in-person and virtual tutoring sessions with a range of differently specialized tutors. They can assist with writing assignments, lab reports, midterm papers, presentations, slide decks, creative essays, personal statements, and more in order to help you become a more effective and confident communicator. **Their assistance could be useful when preparing the presentations and reports for this course.** Whether you are having trouble drafting a thesis statement, deciphering an assignment rubric, structuring an argument, or simply proofreading, the Communications Lab will work with you at any stage of your project. In-person meetings and walk-in visits will take place on the upper level of the Galvin Library, around the corner from OTS (look for signs). While virtual appointments are available, I urge you to meet with tutors in-person for a more effective learning experience. You can register to make an appointment through the [WConline portal](https://www.iit.edu/hass/student-resources/communications-lab), though drop-ins are also welcome pending tutor availability. The Communications Lab is open five days a week.
+
+# Math and Science Help (MASH)
+
+The Math and Science Help (MASH) under the Academic Resource Center provides academic support for undergraduate students through one-to-one peer-tutoring and review sessions via supplemental instruction. The program focuses on strengthening technical understanding, improving course performance, and developing effective study strategies that support long-term academic success.
+
+Appointments are available five days a week during the fall and spring semesters. In-person meetings and walk-ins take place on the upper level of the Galvin Library, around the corner from OTS. While virtual appointments are available, it is highly encouraged to meet in person for a more effective learning experience. Visit [illinoistech.wconline.com](https://illinoistech.mywconline.com/schedule/calendar?scheduleid=sc68d1c5b29e6d4) to book an appointment with our tutors and supplemental instructors.
