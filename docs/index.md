@@ -42,7 +42,7 @@ Organic Chemistry (CHEM 237) and Physical Chemistry I: Thermodynamics (CHEM 343)
 
 # Class Format
 
-The class format will be hybrid synchronous. In addition to being in person, class session will be streamed live and also recorded on Zoom.
+The class format will be hybrid synchronous. In addition to being in person, class session will be streamed live and also recorded on Zoom (as a backup). You are encouraged to come to the classroom unless you are sick.
 
 Classes will include lectures, exercises, presentations, a discussion, and quizzes.
 
