@@ -10,7 +10,7 @@
   title: "Jupyter Notebooks. Software Environments."
   slides: 0114-Jupyter
   exercise: "1: Introduction to Jupyter Notebooks"
-  notebook: 01-Jupyter
+  notebook: 01-Jupyter_Notebooks
 
 - day: M
   date: 01/19
