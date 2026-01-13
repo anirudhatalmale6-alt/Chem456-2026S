@@ -21,7 +21,7 @@
   title: "Fundamentals of biological macromolecules."
   slides_todo: 0121-Biological_Macromolecules
   exercise: "2: Structural visualization with nglview"
-  notebook_todo: 02-Structural_Visualization
+  notebook: 02-Structural_Visualization
   due: "Exercise 0"
 
 - day: F
@@ -54,8 +54,7 @@
 - day: W
   date: 02/04
   title: "Scientific literature and databases."
-  description: "Academic literature databases. Reference management with Zotero.
-    PubChem, PDB, UniProt, and GPCRdb."
+  description: "Academic literature search and reference management with Zotero (Guest: Sean Murphy, library). PubChem, PDB, UniProt, and GPCRdb."
   slides_todo: 02-04-Scientific_Resources
   due: "Exercise 3. Quiz: Biomolecular structure"
 
