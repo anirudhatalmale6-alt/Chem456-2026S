@@ -19,7 +19,7 @@
 - day: W
   date: 01/21
   title: "Fundamentals of biological macromolecules."
-  slides_todo: 0121-Biological_Macromolecules
+  slides: 0121-Biological_Macromolecules
   exercise: "2: Structural visualization with nglview"
   notebook: 02-Structural_Visualization
   due: "Exercise 0"
