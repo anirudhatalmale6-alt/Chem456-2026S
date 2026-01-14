@@ -14,6 +14,6 @@ Dr. David Minh
 
 **Class hours**: Monday and Wednesday, 8:35-9:50, Stuart Building 112F. Per campus policies, there will be one session on Friday to make up for the MLK holiday.
 
-**Drop-in office hours**: Monday 12:45pm-2pm, Wednesday 10am-11:15am, and Wednesday 3:15pm-3:45pm, [Pritzker Science Center 390](https://ccbatiit.github.io/visit/)
+**Drop-in office hours**: Monday 12:45pm-2pm and Wednesday 3:15pm-3:45pm in [Pritzker Science Center 390](https://ccbatiit.github.io/visit/) and Wednesday 10am-11:15am in SB 112F or PSC 390.
 
 **Other contact**: At other times, I usually can answer questions by email. If a discussion is helpful, please set up an appointment using the link in my email signature. If you set up less than a day in advance, I may not see it.
