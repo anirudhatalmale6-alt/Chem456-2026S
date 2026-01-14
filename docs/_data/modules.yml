@@ -28,7 +28,7 @@
   date: 01/23
   title: "Structure determination"
   description: "by X-ray crystallography, NMR, and CryoEM."
-  slides_todo: 01-23-Structure_Determination
+  slides: 01-23-Structure_Determination
   due: "Exercise 1"
 
 - day: M
