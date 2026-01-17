@@ -20,7 +20,7 @@
   date: 01/21
   title: "Fundamentals of biological macromolecules."
   slides: 0121-Biological_Macromolecules
-  exercise: "2: Structural visualization with nglview"
+  exercise: "2: Structural visualization and alignment"
   notebook: 02-Structural_Visualization
   due: "Exercise 0"
 
@@ -28,16 +28,16 @@
   date: 01/23
   title: "Structure determination"
   description: "by X-ray crystallography, NMR, and CryoEM."
-  slides: 01-23-Structure_Determination
+  slides: 0123-Structure_Determination
   due: "Exercise 1"
 
 - day: M
   date: 01/26
   title: "Structure prediction."
   description: "Homology modeling. AlphaFold and RoseTTAFold"
-  exercise: "3: Homology modeling"
-  notebook_todo: 03-Homology_Modeling
-  slides_todo: 01-26-Structure_Prediction
+  exercise: "3: Protein complex prediction using ColabFold"
+  notebook: 03-ColabFold
+  slides: 0126-Structure_Prediction
 
 - day: W
   date: 01/28
