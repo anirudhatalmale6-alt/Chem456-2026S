@@ -37,7 +37,7 @@
   description: "Homology modeling. AlphaFold and RoseTTAFold"
   exercise: "3: Protein complex prediction using ColabFold"
   notebook: 03-ColabFold
-  slides_todo: 0126-Structure_Prediction
+  slides: 0126-Structure_Prediction
 
 - day: W
   date: 01/28
