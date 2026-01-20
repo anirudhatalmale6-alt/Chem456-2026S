@@ -34,7 +34,7 @@
 - day: M
   date: 01/26
   title: "Structure prediction."
-  description: "Homology modeling. AlphaFold and RoseTTAFold"
+  description: "Homology modeling. Deep neural network methods."
   exercise: "3: Protein complex prediction using ColabFold"
   notebook: 03-ColabFold
   slides: 0126-Structure_Prediction
@@ -42,8 +42,8 @@
 - day: W
   date: 01/28
   title: "Selecting a target"
-  description: "for structure-based molecular design. Scientific and market considerations"
-  slides_todo: 01-28-Target_Selection
+  description: "for structure-based molecular design. Scientific and market considerations."
+  slides: 0128-Target_Selection
   due: "Exercise 2"
 
 - day: M
