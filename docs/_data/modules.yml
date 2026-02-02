@@ -56,8 +56,8 @@
 - day: W
   date: 02/04
   title: "Scientific literature and databases."
-  description: "Academic literature search and reference management with Zotero (Guest: Sean Murphy, library). PubChem, PDB, UniProt, and GPCRdb."
-  slides_todo: 02-04-Scientific_Resources
+  description: "Biochemistry-related databases. Academic literature search and reference management with Zotero (Guest: Sean Murphy, library)."
+  slides: 02-04-Scientific_Literature
 
 - day: M
   date: 02/09
