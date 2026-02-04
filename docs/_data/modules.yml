@@ -57,13 +57,13 @@
   date: 02/04
   title: "Scientific literature and databases."
   description: "Biochemistry-related databases. Academic literature search and reference management with Zotero (Guest: Sean Murphy, library)."
-  slides: 02-04-Scientific_Literature
+  slides: 0204-Scientific_Literature
 
 - day: M
   date: 02/09
   title: "Electrostatics and solvation"
   description: "of biological macromolecules."
-  slides_todo: 02-09-Electrostatics
+  slides: 0209-Electrostatics
 
 - day: W
   date: 02/11
