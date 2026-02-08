@@ -68,7 +68,7 @@
 - day: W
   date: 02/11
   exercise: "4: Visualizing protonation and electrostatics"
-  notebook_todo: 04-Electrostatics
+  notebook: 04-Electrostatics
 
 - day: M
   date: 02/16
