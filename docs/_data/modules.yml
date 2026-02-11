@@ -74,7 +74,7 @@
   date: 02/16
   title: "Molecular docking."
   description: "Scoring functions. Common optimization algorithms."
-  slides_todo: 02-16-Molecular_Docking
+  slides: 0216-Molecular_Docking
 
 - day: W
   date: 02/18
