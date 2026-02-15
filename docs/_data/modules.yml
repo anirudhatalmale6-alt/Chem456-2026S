@@ -79,7 +79,7 @@
 - day: W
   date: 02/18
   exercise: "5: Molecular docking with AutoDock Vina"
-  notebook_todo: 05-Molecular_Docking
+  notebook: 05-Molecular_Docking
   due: "Exercise 4. Biological target presentation draft (optional)"
 
 - day: M
