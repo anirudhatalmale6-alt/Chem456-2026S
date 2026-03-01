@@ -97,7 +97,7 @@
   title: "Virtual screening on high performance computing resources."
   description: "Chemical library preparation. Job submission."
   exercise: "6: Virtual Screening"
-  notebook_todo: 06-Virtual_Screening
+  notebook: 06-Virtual_Screening
   due: "Biological target report draft (optional)."
   
 - day: W
