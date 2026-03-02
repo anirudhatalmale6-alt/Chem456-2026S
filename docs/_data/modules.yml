@@ -104,7 +104,7 @@
   date: 03/04
   title: "Molecular mechanics force fields."
   description: "Bonded and nonbonded energy terms. Parameterization."
-  slides_todo: 03-04-Molecular_Mechanics
+  slides: 0304-Molecular_Mechanics
 
 - day: M
   date: 03/09
