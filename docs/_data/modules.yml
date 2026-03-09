@@ -108,15 +108,15 @@
 
 - day: M
   date: 03/09
-  exercise: "7: Preparing a system for molecular simulation"
-  notebook: 07-System_Preparation
+  title: "Monte Carlo."
+  description: "Monte Carlo Integration. Markov chain Monte Carlo"
+  slides: 0309Monte_Carlo  
   due: "Biological target report."
 
 - day: W
   date: 03/11
-  title: "Monte Carlo."
-  description: "Monte Carlo Integration. Markov chain Monte Carlo"
-  slides: 03-11-Monte_Carlo
+  exercise: "7: Preparing a system for molecular simulation"
+  notebook: 07-System_Preparation
   due: "Quiz: Potential energy. Exercise 6."
 
 - day: M
