@@ -109,15 +109,15 @@
 - day: M
   date: 03/09
   exercise: "7: Preparing a system for molecular simulation"
-  notebook_todo: 07-System_Preparation
-  due: "Exercise 6. Biological target report."
+  notebook: 07-System_Preparation
+  due: "Biological target report."
 
 - day: W
   date: 03/11
   title: "Monte Carlo."
   description: "Monte Carlo Integration. Markov chain Monte Carlo"
-  slides_todo: 03-11-Monte_Carlo
-  due: "Quiz: Potential energy"
+  slides: 03-11-Monte_Carlo
+  due: "Quiz: Potential energy. Exercise 6."
 
 - day: M
   date: 03/16
